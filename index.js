@@ -1,5 +1,5 @@
 function hasTargetSum(array, target) {
-  // Write your algorithm here
+  const seenNumbers = {};
 }
 
 /* 
